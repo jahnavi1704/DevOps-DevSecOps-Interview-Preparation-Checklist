@@ -1,7 +1,5 @@
 # DevOps / DevSecOps Study Checklist (Week-by-week: exact topics to study)
 
-Good — this is a precise, study-focused checklist with concrete subtopics, prioritized core vs advanced, and exact hands-on exercises you should finish. Use this as your daily study map (tick each item as you complete it).
-
 Week 1 — Foundations, Git, Linux, Networking (study list)
 
 Core (must know)
